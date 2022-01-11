@@ -1,11 +1,10 @@
 {
   "date" : [
-    { "date": "202101" },
-    { "date": "202101" },
-    { "date": "20200213" },
-    { "date": "202003" },
-    { "date": "202004" },
-    { "date": "202012" }
+    { "key":"Jan1", "year":"2022", "month":"1" },
+    { "key":"Feb1", "year":"2022", "month":"2" },
+    { "key":"Mar1", "year":"2022", "month":"3", "startDay":"15", "endDay":"15"},
+    { "key":"Mar2", "year":"2022", "month":"3", "startDay":"11", "endDay":"14" },
+    { "key":"Apr1", "year":"2022", "month":"4" },
+    { "key":"May1", "year":"2022", "month":"5" }
   ]
-  
 }
