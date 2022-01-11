@@ -56,6 +56,206 @@
         "date": "2022/12/14",
         "time": "15:30"
       }
+    },
+     {
+      "key": "Feb1",
+      "dateTime": "2月3日（六）15:30",
+      "place": "桃園市立綜合體育館",
+      "race": "例行賽",
+      "teams": [
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo3.png?raw=true",
+          "name": "新竹街口攻城獅",
+          "point": 125
+        },
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo4.png?raw=true",
+          "name": "台北富邦勇士",
+          "point": 105
+        }
+      ],
+      "buyData": {
+        "gameId": 1,
+        "date": "2022/12/13",
+        "time": "15:30"
+      }
+    },
+    {
+      "key": "Feb1",
+      "dateTime": "2月9日（天）15:30",
+      "place": "桃園市立綜合體育館",
+      "race": "例行賽",
+      "teams": [
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo1.png?raw=true",
+          "name": "桃園領航猿",
+          "point": 125
+        },
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo2.png?raw=true",
+          "name": "台新夢想家",
+          "point": 125
+        }
+      ],
+      "buyData": {
+        "gameId": 1,
+        "date": "2022/12/14",
+        "time": "15:30"
+      }
+    },
+     {
+      "key": "Mar1",
+      "dateTime": "3月15日（六）15:30",
+      "place": "桃園市立綜合體育館",
+      "race": "例行賽",
+      "teams": [
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo3.png?raw=true",
+          "name": "新竹街口攻城獅",
+          "point": 125
+        },
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo4.png?raw=true",
+          "name": "台北富邦勇士",
+          "point": 105
+        }
+      ],
+      "buyData": {
+        "gameId": 1,
+        "date": "2022/12/13",
+        "time": "15:30"
+      }
+    },
+    {
+      "key": "Mar2",
+      "dateTime": "3月12日（天）15:30",
+      "place": "桃園市立綜合體育館",
+      "race": "例行賽",
+      "teams": [
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo1.png?raw=true",
+          "name": "桃園領航猿",
+          "point": 125
+        },
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo2.png?raw=true",
+          "name": "台新夢想家",
+          "point": 125
+        }
+      ],
+      "buyData": {
+        "gameId": 1,
+        "date": "2022/12/14",
+        "time": "15:30"
+      }
+    },
+     {
+      "key": "Mar2",
+      "dateTime": "3月13日（六）15:30",
+      "place": "桃園市立綜合體育館",
+      "race": "例行賽",
+      "teams": [
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo3.png?raw=true",
+          "name": "新竹街口攻城獅",
+          "point": 125
+        },
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo4.png?raw=true",
+          "name": "台北富邦勇士",
+          "point": 105
+        }
+      ],
+      "buyData": {
+        "gameId": 1,
+        "date": "2022/12/13",
+        "time": "15:30"
+      }
+    },
+    {
+      "key": "Apr1",
+      "dateTime": "4月14日（天）15:30",
+      "place": "桃園市立綜合體育館",
+      "race": "例行賽",
+      "teams": [
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo1.png?raw=true",
+          "name": "桃園領航猿",
+          "point": 125
+        },
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo2.png?raw=true",
+          "name": "台新夢想家",
+          "point": 125
+        }
+      ],
+      "buyData": {
+        "gameId": 1,
+        "date": "2022/12/14",
+        "time": "15:30"
+      }
+    },
+    {
+      "key": "Apr1",
+      "dateTime": "4月18日（天）15:30",
+      "place": "桃園市立綜合體育館",
+      "race": "例行賽",
+      "teams": [
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo1.png?raw=true",
+          "name": "桃園領航猿",
+          "point": 125
+        },
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo2.png?raw=true",
+          "name": "台新夢想家",
+          "point": 125
+        }
+      ],
+      "buyData": {
+        "gameId": 1,
+        "date": "2022/12/14",
+        "time": "15:30"
+      }
+    },
+    {
+      "key": "Apr1",
+      "dateTime": "4月22日（天）15:30",
+      "place": "桃園市立綜合體育館",
+      "race": "例行賽",
+      "teams": [
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo1.png?raw=true",
+          "name": "桃園領航猿",
+          "point": 125
+        },
+        {
+          "logo":
+            "https://github.com/archieWu/jkopay_test_api/blob/main/logo2.png?raw=true",
+          "name": "台新夢想家",
+          "point": 125
+        }
+      ],
+      "buyData": {
+        "gameId": 1,
+        "date": "2022/12/14",
+        "time": "15:30"
+      }
     }
   ]
 }
